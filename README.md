@@ -1,16 +1,164 @@
-### Hi there 👋
+# Hi there, I'm Zeeshan Zahoor
 
-<!--
-**zeeshanf10/zeeshanf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer | Beginner Big Data Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+- 📚 Building my self from reading books and new things
+- 🔭 I’m currently working as a full stack Developer
+- 🌱 I’m currently learning Nodejs, Angular, Kubernetes, dockers, Kafka, Clickhouse.
+- 🖥️ working my way towards learning more about software deployment Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
+<h3> Frontend </h3>
+<table width="100">
+<tr>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/angular.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/javascript.png" width="100">
+    </td>
+     <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/html.png" width="100">
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/css.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/tailwind.svg"width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/ant-design.png" width="100">
+    </td>
+</tr>       
+</table>
+</br>
+
+<h3> Backend </h3>
+<table width="100">
+<tr>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/nodejs.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/python.png" width="100" >
+    </td>
+    <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/golang.png" width="100">
+    </td>
+     <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/php.svg" width="100">
+    </td>
+     <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/nestjs.png" width="100">
+    </td>
+</tr>
+</table>
+</br>
+
+<h3> Mobile </h3>
+<table width="100">
+<tr>
+    <td align='center' width="300">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/ionic.png" width="250" >
+    </td>
+    <td align='center' width="300">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/react-native.png" width="250" >
+    </td>
+</tr>
+</table>
+</br>
+
+<h3> Bigdata </h3>
+<table width="100">
+<tr>
+    <td align='center' width="300">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/clickhouse.png" width="300" >
+    </td>
+</tr>
+</table>
+
+</br>
+
+<h3> Database </h3>
+<table width="100">
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/postgresql.png" width="250" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/mongodb.png" width="250" >
+    </td>
+      <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/mysql.png" width="250" >
+    </td>
+        <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/firebase.png" width="250" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/redis.png" width="250" >
+    </td>
+</tr>
+</table>
+
+</br>
+
+<h3> Frameworks </h3>
+<table width="100">
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/expressjs.png" width="250" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/nextjs.svg" width="250" >
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/TypeScript.png" width="250" >
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/codeigniter.svg" width="250" >
+    </td>
+</tr>
+
+</table>
+
+</br>
+
+<h3> Cloud </h3>
+<table width="100">
+<tr>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/aws.png" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/google-cloud.png" width="250" >
+    </td>
+</tr>
+</table>
+
+</br>
+
+<h3> DevOps </h3>
+<table width="100">
+<tr>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/jenkins.png" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/docker.png" width="250" >
+    </td>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/kubernetes.png" width="250" >
+    </td>
+</tr>
+</table>
+</br>
+
+<h3> CMS </h3>
+<table width="100">
+<tr>
+    <td align='center' width="250">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/wordpress.png" width="250" >
+    </td>
+</tr>
+</table>
+</br>
