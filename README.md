@@ -3,8 +3,8 @@
 ### I'm a Software Engineer | Front end Web Developer | React JS Developer
 
 - 📚 Building my self from reading books and new things
-- 🔭 I’m currently working as a full stack Developer
-- 🌱 I’m currently learning Nodejs, Angular, Kubernetes, dockers, Kafka, Clickhouse.
+- 🔭 I’m currently working as a Front end Web Developer
+- 🌱 I’m currently learning Nodejs, Angular, React Js.
 - 🖥️ working my way towards learning more about software deployment Architecture
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
