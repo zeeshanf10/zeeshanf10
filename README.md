@@ -11,6 +11,9 @@
 <h3> Frontend </h3>
 <table width="100">
 <tr>
+       <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/React.png" width="100" >
+    </td>
     <td align='center' width="150" height="150">
         <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/angular.png" width="100" >
     </td>
