@@ -44,7 +44,6 @@
 <h3> Mobile </h3>
 <table width="100">
 <tr>
-    
     <td align='center' width="300">
         <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/react-native.png" width="250" >
     </td>
