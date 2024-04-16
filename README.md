@@ -26,6 +26,9 @@
     <td align='center' width="150" height="150">
         <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/css.png" width="100" >
     </td>
+        <td align='center' width="150" height="150">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/bootstrap.png" width="100" >
+    </td>
     <td align='center' width="150" height="150">
         <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/ant-design.png" width="100">
     </td>
