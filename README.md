@@ -59,6 +59,21 @@
 
 </br>
 
+<h3> Project Management </h3>
+<table width="100">
+<tr>
+    <td align='center' width="300">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/jira.png" width="250" >
+    </td>
+       <td align='center' width="300">
+        <img src="https://github.com/zeeshanf10/zeeshanf10/blob/main/images/trello.png" width="250" >
+    </td>
+</tr>
+</table>
+
+
+</br>
+
 <h3> Database </h3>
 <table width="100">
 <tr>
