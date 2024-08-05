@@ -4,7 +4,7 @@
 
 - 📚 Building my self from reading books and new things
 - 🔭 I’m currently working as a Front end Web Developer
-- 🌱 I’m currently learning Nodejs, Angular, React Js.
+- 🌱 I’m currently learning Nodejs, Express and Mongo DB.
 - 🖥️ working my way towards learning more about software deployment Architecture
 
 <h2><i>💻 Technologies/Tools I am Familiar with</i></h2>
